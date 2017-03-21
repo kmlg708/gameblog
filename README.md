@@ -1,0 +1,2 @@
+# gameblog
+mygameblog
